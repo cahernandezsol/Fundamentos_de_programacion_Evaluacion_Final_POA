@@ -1,3 +1,11 @@
+'''=============================================================================
+ AUTOR              : Camilo Andres Hernandez Soler
+ GRUPO              : 213022_711
+ PROGRAMA           : ECBTI
+ CODIGO FUENTE      : Autoria propia
+
+ FECHA (dd/mm/aaaa) : 26/05/2026
+============================================================================='''
 def calificacion(id,duracion,eventos):
     if duracion > 180 and eventos > 8:
         etiqueta="Alto"
