@@ -18,7 +18,7 @@ Una matriz almacena datos de sesiones de clientes con el formato: **[ID Cliente,
 ### Requisitos de Desarrollo
 
 #### 1. Datos Iniciales
-- Una matriz con al menos 5 filas de datos (este proyecto incluye 12 registros).
+- Una matriz con al menos 5 filas de datos.
 - Formato: `[ID_Dispositivo, Duración_en_segundos, Cantidad_de_Clics]`
 
 #### 2. Módulos
