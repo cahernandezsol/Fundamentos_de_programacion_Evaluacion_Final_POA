@@ -5,12 +5,6 @@ Repositorio público con la entrega final de la asignatura Fundamentos de progra
 Contenido
 - `213022_711_Fase_5_Camilo_Hernandez.py` : Script que clasifica sesiones por nivel de compromiso (Alto / Medio / Bajo).
 
-# Fundamentos_de_programacion_Evaluacion_Final_POA
-
-Repositorio público con la entrega final de la asignatura "Fundamentos de programación" — Evaluación POA (Prueba Objetiva Abierta).
-
----
-
 ## Problema
 
 Una matriz almacena datos de sesiones de clientes con el formato: **[ID Cliente, Duración (segundos), Eventos Clics]**. Se necesita una herramienta para evaluar el nivel de compromiso de cada sesión.
